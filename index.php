@@ -17,10 +17,10 @@
 	</div>
     <div>
 		<h2>P2</h2>
-		<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+		<p>An HTML form to generate an XKCD style password, of 2 - 10 commonly used words. </p>
 		<p>
-			<a class="btn btn-default" href="#" role="button">View GitHub &raquo;</a>&nbsp;
-			<a class="btn btn-default" href="#" role="button">View Live &raquo;</a>
+			<a class="btn btn-default" href="https://github.com/dglauner/P2" role="button">View GitHub &raquo;</a>&nbsp;
+			<a class="btn btn-default" href="http://p2.davidglauner.me" role="button">View Live &raquo;</a>
 		</p>
     </div>
     <div>
